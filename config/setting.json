@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "http://lemonhut.github.io",
+    "email": "tangjian0731@foxmail.com",
+    "platform": "github",
+    "repository": "lemonhut.github.io",
+    "token": "8e59c3cb638f9a5bf2e26879634da67e3fd558c4",
+    "username": "lemonhut"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
